@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Calendar2App/static/css/main.0c28c865.css",
-    "main.js": "/Calendar2App/static/js/main.15bde0b9.js",
+    "main.css": "/Calendar2App/static/css/main.6278b97b.css",
+    "main.js": "/Calendar2App/static/js/main.3ed6f2bd.js",
     "static/media/arrow-left.svg": "/Calendar2App/static/media/arrow-left.a1b2a2ff85325474fe4f2eb8655faf45.svg",
     "static/media/arrow-right.svg": "/Calendar2App/static/media/arrow-right.89ca7e2a933d7e4665ab859850a1a195.svg",
     "index.html": "/Calendar2App/index.html",
-    "main.0c28c865.css.map": "/Calendar2App/static/css/main.0c28c865.css.map",
-    "main.15bde0b9.js.map": "/Calendar2App/static/js/main.15bde0b9.js.map"
+    "main.6278b97b.css.map": "/Calendar2App/static/css/main.6278b97b.css.map",
+    "main.3ed6f2bd.js.map": "/Calendar2App/static/js/main.3ed6f2bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c28c865.css",
-    "static/js/main.15bde0b9.js"
+    "static/css/main.6278b97b.css",
+    "static/js/main.3ed6f2bd.js"
   ]
 }
